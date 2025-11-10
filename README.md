@@ -185,15 +185,11 @@ body, html {
 
 ## OUTPUT
 
-![alt text](sun.png)
+<img width="1258" height="663" alt="image" src="https://github.com/user-attachments/assets/ca6e5aae-f4b6-4540-b6d6-d19cd2fc49fa" />
 
-
-
- ![alt text](earth.png) 
+<img width="1262" height="665" alt="image" src="https://github.com/user-attachments/assets/2f4fd837-9b8e-44dc-b964-9807a77026ca" />
  
- 
- 
- ![alt text](moon.png)
+ <img width="1260" height="667" alt="image" src="https://github.com/user-attachments/assets/b2dd457e-50a7-4f4d-bec0-300972e091e2" />
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
